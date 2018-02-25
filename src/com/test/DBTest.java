@@ -17,8 +17,8 @@ import org.hibernate.Session;
 
 public class DBTest {
     static String oracleUserName = "cyrealty"; //replace with your Oracle account name
-    static String password = "123456"; //replace with your Oracle password
-    static String dbname = "BD_HOUSE";//存储表格名字
+    static String password = "123456789"; //replace with your Oracle password
+    static String dbname = "BD";//存储表格名字
     
     /**
      * 连接数据库
